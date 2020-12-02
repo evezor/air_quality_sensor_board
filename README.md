@@ -1,1 +1,2 @@
-# air_quality_sensor_board
+# Air Quality Sensor Board
+board counts airborne particulate matter 
